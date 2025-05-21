@@ -1,3 +1,4 @@
+#Funciones
 def segundos_a_horas(segundos):
     return round(segundos / 3600, 2)
 
