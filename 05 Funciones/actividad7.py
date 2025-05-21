@@ -1,3 +1,4 @@
+#Funciones
 def operaciones_basicas(a, b):
     suma = a + b
     resta = a - b
